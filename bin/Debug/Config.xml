@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <PathOVPN Value="C:\Program Files\OpenVPN\bin\openvpn-gui.exe" />
+  <PathConfigs Value="C:\Program Files\OpenVPN\config" />
+  <User Value="npnhatduy@gmail.com" />
+  <Pass Value="hlyscmsf" />
+  <TimeChange Value="15" />
+  <Index Value="17" />
+  <charles Value="charles" />
+  <RunFile Value="" />
+  <HourChange Value="10" />
+</Config>

@@ -1,0 +1,2 @@
+C:\Users\npnhatduy\Documents\Reflector\Disassembler\OVPN-Au\obj\x86\Debug\OVPN_Au.Form1.resources
+C:\Users\npnhatduy\Documents\Reflector\Disassembler\OVPN-Au\obj\x86\Debug\OVPN-Au.csproj.GenerateResource.Cache

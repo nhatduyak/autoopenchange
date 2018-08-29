@@ -1,0 +1,8 @@
+C:\Users\npnhatduy\Documents\Reflector\Disassembler\OVPN-Au\bin\Debug\OVPN-AuNEW.exe
+C:\Users\npnhatduy\Documents\Reflector\Disassembler\OVPN-Au\bin\Debug\OVPN-AuNEW.pdb
+C:\Users\npnhatduy\Documents\Reflector\Disassembler\OVPN-Au\obj\x86\Debug\OVPN-AuNEW.exe
+C:\Users\npnhatduy\Documents\Reflector\Disassembler\OVPN-Au\obj\x86\Debug\OVPN-AuNEW.pdb
+C:\Users\npnhatduy\Documents\Reflector\Disassembler\OVPN-Au\obj\x86\Debug\OVPN_Au.Form1.resources
+C:\Users\npnhatduy\Documents\Reflector\Disassembler\OVPN-Au\obj\x86\Debug\OVPN-AuNEW.csproj.GenerateResource.Cache
+C:\Users\npnhatduy\Documents\Reflector\Disassembler\OVPN-Au\bin\Debug\OVPN-AuNEW.exe.config
+C:\Users\npnhatduy\Documents\Reflector\Disassembler\OVPN-Au\obj\x86\Debug\OVPN-AuNEW.csprojResolveAssemblyReference.cache
